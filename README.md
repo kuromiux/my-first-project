@@ -14,7 +14,7 @@ Click the button on the webpage to test the interaction.
 ## 🔧 How to run
 
 1. Download or clone this repository
-2. Open `index.html` in your browser
+2. Open `page.html` in your browser
 
 ---
 
